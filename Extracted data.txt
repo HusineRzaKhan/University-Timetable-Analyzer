@@ -1,0 +1,939 @@
+Department of Software Engineering.
+BSE-8A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SE4001
+MG4011 -
+Tu
+CS4036-Soft Software
+Entrepreneur
+ware Testing Re-Engineeri
+ship
+ng
+R-18 Dr. Affan Rauf R-17 Dr. Saif Maqbool R-20 Mr. Awais Azam
+SE4001
+MG4011 - CS3002-Infor
+We Software
+Entrepreneur mation
+Re-Engineeri
+ship Security
+ng
+FSM#3Dr. Saif Maqbool RD-2r0. Qamar Uz Zaman R-20 Mr. Awais Azam
+CS3002-Infor
+Th
+CS4036-Soft
+mation
+ware Testing
+Security
+RD-2r0. Qamar Uz Zaman R-17 Dr. Affan Rauf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-8B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+MG4011 - CS3002-Informati
+Entrepreneurship on Security
+FSM#3 Ms. Amna Babar R-20 Ms Sumaira Mustafar
+Tu
+SE4001 Software CS4036-Software CS3002-Informati
+Re-Engineering Testing on Security
+FSM#3 Mr. Awais Azam R-18 Dr. Affan Rauf R-18 Ms Sumaira Mustafar
+We
+MG4011 -
+Entrepreneurship
+R-20 Ms. Amna Babar
+Th
+CS4036-Software SE4001 Software
+Testing Re-Engineering
+R-18 Dr. Affan Rauf R-20 Mr. Awais Azam
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE4008-Programming for Mobile
+CS3001-Computer SE3003-Web
+Devices Networks Engineering
+Lab # 4 Mr. Tahir Farooq R-18 Ms. Sahar Ajmal R-17 Mr. Jawad Khalid
+CS2006-Operating
+Systems
+Tu
+CS3001-Computer R-01 Ms. Sahar Ajmal
+CL3001-Computer Networks - Lab
+Networks
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Ms. Farwa Ahmad FSM#3 Ms. Sahar Ajmal R-18 Dr. Shanza Abbas
+CS2006-Operating
+Systems
+We
+SE3003-Web MT4032-Stochasti R-17 Ms. Sahar Ajmal
+SL3003-Web Engineering - Lab
+Engineering c Processes
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer R-20 Dr. Muhammad Adnan R-18 Dr. Shanza Abbas
+Th
+MT4032-Stochasti
+CL2006-Operating Systems - Lab
+c Processes
+R-18 Dr. Muhammad Adnan Lab # 6 Ms. Farwa Ahmad
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS3001-Computer
+CL3001-Computer Networks - Lab
+Networks
+Lab # 6 Ms. Farwa Ahmad R-20 Ms. Sahar Ajmal
+CS2006-Operating Systems
+Tu
+R-01 Ms. Sahar Ajmal MT4032-Stochastic
+SE4008-Programming for Mobile Devices
+Processes
+CS2009-Design and Analysis
+of Algorithms
+Lab # 4 Mr. Tahir Farooq R-18 Dr. Shanza Abbas R-01 Dr. Muhammad Adnan
+CS2006-Operating Systems
+We
+MT4032-Stochastic CS3001-Computer SE3003-Web R-17 Ms. Sahar Ajmal
+Processes Networks Engineering
+CS2009-Design and Analysis
+of Algorithms
+R-01 Dr. Muhammad Adnan R-18 Ms. Sahar Ajmal FSM#3 Mr. Jawad Khalid R-18 Dr. Shanza Abbas
+Th
+SE3003-Web
+SL3003-Web Engineering - Lab CL2006-Operating Systems - Lab
+Engineering
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer Lab # 6 Ms. Farwa Ahmad
+Fr
+SE3002 - Software Quality Engineering
+R-01 Mr. Jawad Khalid
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE2002-Software
+MG1002-Marketing
+Design and SL2002-Software Design and Architecture - Lab
+Management
+Architecture
+R-01 Dr. Sajid Anwar FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Maham Saleem
+Tu
+CS2005-Database SE2003 - Formal MT2005-Probability
+Systems Methods and Statistics
+R-18 Dr. Shanza Abbas R-20 Dr. Qamar Uz Zaman R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing SE2003 - Formal
+CL2005-Database Systems - Lab
+Structures Management Methods
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza R-20 Dr. Qamar Uz Zaman LAB-3 Ms. Samia Aziz
+Th SE2002-Software
+CS2005-Database MT2005-Probability CS2001-Data
+Design and
+Systems and Statistics Structures
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar FSM#3 Dr. Sana Shahid R-18 Ms. Nabeela Ashraf
+Fr
+CL2001-Data Structures - Lab
+LAB-3 Ms. Nabeela Ashraf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SS1008
+Mo SE2002-Software Communicati
+SL2002-Software Design and Architecture - Lab Design and on and
+Architecture Presentation
+Skills
+LAB-3 Tehreem Aslam R-01 Dr. Sajid Anwar FMSsM. #M3unazza Akhtar
+Tu SE2002-Software
+CS2005-Database SE2003 - Formal MG1002-Marketing MT2005-Probability
+Design and
+Systems Methods Management and Statistics
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar R-20 Dr. Qamar Uz Zaman FSM#3 Mr. Hafiz M. Zeeshan Raza R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing
+CL2005-Database Systems - Lab
+Structures Management
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Samia Aziz
+SS1008
+Communicati
+Th
+CS2005-Database MT2005-Probability SE2003 - Formal CS2001-Data
+on and
+Systems and Statistics Methods Structures
+Presentation
+Skills
+R-18 Dr. Shanza Abbas FSM#3 Dr. Sana Shahid R-20 Dr. Qamar Uz Zaman R-18 Ms. Nabeela Ashraf FMSsM. #M3unazza Akhtar
+Fr SL1008 Communicatio SL1008 Communicatio
+CL2001-Data Structures - Lab n and Presentation n and Presentation
+Skills - Lab Skills - Lab
+LAB-3 Ms. Nabeela Ashraf CAL-LAB Mr. Khalid Mehmood Anjum CAL-LAB Mr. Khalid Mehmood Anjum
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+EE1009-Digital Logic SE1001-Introduction to CS1005-Discrete
+Design Software Engineering Structures
+R-17 Mr. Adeel Tahir R-17 Mr. Umer Iqbal R-17 Dr. Muhammad Ahmad
+Tu
+CS1004-Object CS1005-Discrete
+EL1009-Digital Logic Design - Lab
+Oriented Programming Structures
+R-01 Dr. Sajid Anwar R-17 Dr. Muhammad Ahmad DLD Lab Ms. Amna Shahbaz
+We
+SE1001-Introduction to EE1009-Digital Logic MT1008-Multivariable CS1002-Programming
+Software Engineering Design Calculus Fundamentals
+R-17 Mr. Umer Iqbal R-17 Mr. Adeel Tahir R-18 Mr. Muhammad Munawar R-01 Ms. Nabeela Ashraf
+CL1004-Object Oriented Programming -
+Lab
+Th
+CS1004-Object MT1008-Multivariable LAB-3 Ms. Samia Aziz
+Oriented Programming Calculus
+CS1002-Programming
+Fundamentals
+R-17 Dr. Sajid Anwar R-17 Mr. Muhammad Munawar R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS1004-Object CS1005-Discrete EE1009-Digital Logic
+Oriented Programming Structures Design
+R-18 Mr. Jawad Khalid R-17 Dr. Muhammad Ahmad R-01 Mr. Adeel Tahir
+Tu CS1004-Object CS1005-Discrete CL1004-Object Oriented Programming-Lab
+Oriented Programming Structures B1
+R-17 Mr. Jawad Khalid R-01 Dr. Muhammad Ahmad LAB-3 Ms. Samia Aziz
+We
+EE1009-Digital Logic MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+Design Calculus Software Engineering Fundamentals
+R-01 Mr. Adeel Tahir R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-01 Ms. Nabeela Ashraf
+Th
+MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+EL1009-Digital Logic Design - Lab
+Calculus Software Engineering Fundamentals
+DLD Lab Ms. Amna Shahbaz R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc Timetables
+Department of Software Engineering.
+BSE-8A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SE4001
+MG4011 -
+Tu
+CS4036-Soft Software
+Entrepreneur
+ware Testing Re-Engineeri
+ship
+ng
+R-18 Dr. Affan Rauf R-17 Dr. Saif Maqbool R-20 Mr. Awais Azam
+SE4001
+MG4011 - CS3002-Infor
+We Software
+Entrepreneur mation
+Re-Engineeri
+ship Security
+ng
+FSM#3Dr. Saif Maqbool RD-2r0. Qamar Uz Zaman R-20 Mr. Awais Azam
+CS3002-Infor
+Th
+CS4036-Soft
+mation
+ware Testing
+Security
+RD-2r0. Qamar Uz Zaman R-17 Dr. Affan Rauf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-8B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+MG4011 - CS3002-Informati
+Entrepreneurship on Security
+FSM#3 Ms. Amna Babar R-20 Ms Sumaira Mustafar
+Tu
+SE4001 Software CS4036-Software CS3002-Informati
+Re-Engineering Testing on Security
+FSM#3 Mr. Awais Azam R-18 Dr. Affan Rauf R-18 Ms Sumaira Mustafar
+We
+MG4011 -
+Entrepreneurship
+R-20 Ms. Amna Babar
+Th
+CS4036-Software SE4001 Software
+Testing Re-Engineering
+R-18 Dr. Affan Rauf R-20 Mr. Awais Azam
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE4008-Programming for Mobile
+CS3001-Computer SE3003-Web
+Devices Networks Engineering
+Lab # 4 Mr. Tahir Farooq R-18 Ms. Sahar Ajmal R-17 Mr. Jawad Khalid
+CS2006-Operating
+Systems
+Tu
+CS3001-Computer R-01 Ms. Sahar Ajmal
+CL3001-Computer Networks - Lab
+Networks
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Ms. Farwa Ahmad FSM#3 Ms. Sahar Ajmal R-18 Dr. Shanza Abbas
+CS2006-Operating
+Systems
+We
+SE3003-Web MT4032-Stochasti R-17 Ms. Sahar Ajmal
+SL3003-Web Engineering - Lab
+Engineering c Processes
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer R-20 Dr. Muhammad Adnan R-18 Dr. Shanza Abbas
+Th
+MT4032-Stochasti
+CL2006-Operating Systems - Lab
+c Processes
+R-18 Dr. Muhammad Adnan Lab # 6 Ms. Farwa Ahmad
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS3001-Computer
+CL3001-Computer Networks - Lab
+Networks
+Lab # 6 Ms. Farwa Ahmad R-20 Ms. Sahar Ajmal
+CS2006-Operating Systems
+Tu
+R-01 Ms. Sahar Ajmal MT4032-Stochastic
+SE4008-Programming for Mobile Devices
+Processes
+CS2009-Design and Analysis
+of Algorithms
+Lab # 4 Mr. Tahir Farooq R-18 Dr. Shanza Abbas R-01 Dr. Muhammad Adnan
+CS2006-Operating Systems
+We
+MT4032-Stochastic CS3001-Computer SE3003-Web R-17 Ms. Sahar Ajmal
+Processes Networks Engineering
+CS2009-Design and Analysis
+of Algorithms
+R-01 Dr. Muhammad Adnan R-18 Ms. Sahar Ajmal FSM#3 Mr. Jawad Khalid R-18 Dr. Shanza Abbas
+Th
+SE3003-Web
+SL3003-Web Engineering - Lab CL2006-Operating Systems - Lab
+Engineering
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer Lab # 6 Ms. Farwa Ahmad
+Fr
+SE3002 - Software Quality Engineering
+R-01 Mr. Jawad Khalid
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE2002-Software
+MG1002-Marketing
+Design and SL2002-Software Design and Architecture - Lab
+Management
+Architecture
+R-01 Dr. Sajid Anwar FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Maham Saleem
+Tu
+CS2005-Database SE2003 - Formal MT2005-Probability
+Systems Methods and Statistics
+R-18 Dr. Shanza Abbas R-20 Dr. Qamar Uz Zaman R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing SE2003 - Formal
+CL2005-Database Systems - Lab
+Structures Management Methods
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza R-20 Dr. Qamar Uz Zaman LAB-3 Ms. Samia Aziz
+Th SE2002-Software
+CS2005-Database MT2005-Probability CS2001-Data
+Design and
+Systems and Statistics Structures
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar FSM#3 Dr. Sana Shahid R-18 Ms. Nabeela Ashraf
+Fr
+CL2001-Data Structures - Lab
+LAB-3 Ms. Nabeela Ashraf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SS1008
+Mo SE2002-Software Communicati
+SL2002-Software Design and Architecture - Lab Design and on and
+Architecture Presentation
+Skills
+LAB-3 Tehreem Aslam R-01 Dr. Sajid Anwar FMSsM. #M3unazza Akhtar
+Tu SE2002-Software
+CS2005-Database SE2003 - Formal MG1002-Marketing MT2005-Probability
+Design and
+Systems Methods Management and Statistics
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar R-20 Dr. Qamar Uz Zaman FSM#3 Mr. Hafiz M. Zeeshan Raza R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing
+CL2005-Database Systems - Lab
+Structures Management
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Samia Aziz
+SS1008
+Communicati
+Th
+CS2005-Database MT2005-Probability SE2003 - Formal CS2001-Data
+on and
+Systems and Statistics Methods Structures
+Presentation
+Skills
+R-18 Dr. Shanza Abbas FSM#3 Dr. Sana Shahid R-20 Dr. Qamar Uz Zaman R-18 Ms. Nabeela Ashraf FMSsM. #M3unazza Akhtar
+Fr SL1008 Communicatio SL1008 Communicatio
+CL2001-Data Structures - Lab n and Presentation n and Presentation
+Skills - Lab Skills - Lab
+LAB-3 Ms. Nabeela Ashraf CAL-LAB Mr. Khalid Mehmood Anjum CAL-LAB Mr. Khalid Mehmood Anjum
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+EE1009-Digital Logic SE1001-Introduction to CS1005-Discrete
+Design Software Engineering Structures
+R-17 Mr. Adeel Tahir R-17 Mr. Umer Iqbal R-17 Dr. Muhammad Ahmad
+Tu
+CS1004-Object CS1005-Discrete
+EL1009-Digital Logic Design - Lab
+Oriented Programming Structures
+R-01 Dr. Sajid Anwar R-17 Dr. Muhammad Ahmad DLD Lab Ms. Amna Shahbaz
+We
+SE1001-Introduction to EE1009-Digital Logic MT1008-Multivariable CS1002-Programming
+Software Engineering Design Calculus Fundamentals
+R-17 Mr. Umer Iqbal R-17 Mr. Adeel Tahir R-18 Mr. Muhammad Munawar R-01 Ms. Nabeela Ashraf
+CL1004-Object Oriented Programming -
+Lab
+Th
+CS1004-Object MT1008-Multivariable LAB-3 Ms. Samia Aziz
+Oriented Programming Calculus
+CS1002-Programming
+Fundamentals
+R-17 Dr. Sajid Anwar R-17 Mr. Muhammad Munawar R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS1004-Object CS1005-Discrete EE1009-Digital Logic
+Oriented Programming Structures Design
+R-18 Mr. Jawad Khalid R-17 Dr. Muhammad Ahmad R-01 Mr. Adeel Tahir
+Tu CS1004-Object CS1005-Discrete CL1004-Object Oriented Programming-Lab
+Oriented Programming Structures B1
+R-17 Mr. Jawad Khalid R-01 Dr. Muhammad Ahmad LAB-3 Ms. Samia Aziz
+We
+EE1009-Digital Logic MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+Design Calculus Software Engineering Fundamentals
+R-01 Mr. Adeel Tahir R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-01 Ms. Nabeela Ashraf
+Th
+MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+EL1009-Digital Logic Design - Lab
+Calculus Software Engineering Fundamentals
+DLD Lab Ms. Amna Shahbaz R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc Timetables
+
+Teachers Free Slots:
+{}
+
+Sections Free Slots:
+{}
+Extracted text:
+Department of Software Engineering.
+BSE-8A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SE4001
+MG4011 -
+Tu
+CS4036-Soft Software
+Entrepreneur
+ware Testing Re-Engineeri
+ship
+ng
+R-18 Dr. Affan Rauf R-17 Dr. Saif Maqbool R-20 Mr. Awais Azam
+SE4001
+MG4011 - CS3002-Infor
+We Software
+Entrepreneur mation
+Re-Engineeri
+ship Security
+ng
+FSM#3Dr. Saif Maqbool RD-2r0. Qamar Uz Zaman R-20 Mr. Awais Azam
+CS3002-Infor
+Th
+CS4036-Soft
+mation
+ware Testing
+Security
+RD-2r0. Qamar Uz Zaman R-17 Dr. Affan Rauf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-8B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+MG4011 - CS3002-Informati
+Entrepreneurship on Security
+FSM#3 Ms. Amna Babar R-20 Ms Sumaira Mustafar
+Tu
+SE4001 Software CS4036-Software CS3002-Informati
+Re-Engineering Testing on Security
+FSM#3 Mr. Awais Azam R-18 Dr. Affan Rauf R-18 Ms Sumaira Mustafar
+We
+MG4011 -
+Entrepreneurship
+R-20 Ms. Amna Babar
+Th
+CS4036-Software SE4001 Software
+Testing Re-Engineering
+R-18 Dr. Affan Rauf R-20 Mr. Awais Azam
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE4008-Programming for Mobile
+CS3001-Computer SE3003-Web
+Devices Networks Engineering
+Lab # 4 Mr. Tahir Farooq R-18 Ms. Sahar Ajmal R-17 Mr. Jawad Khalid
+CS2006-Operating
+Systems
+Tu
+CS3001-Computer R-01 Ms. Sahar Ajmal
+CL3001-Computer Networks - Lab
+Networks
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Ms. Farwa Ahmad FSM#3 Ms. Sahar Ajmal R-18 Dr. Shanza Abbas
+CS2006-Operating
+Systems
+We
+SE3003-Web MT4032-Stochasti R-17 Ms. Sahar Ajmal
+SL3003-Web Engineering - Lab
+Engineering c Processes
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer R-20 Dr. Muhammad Adnan R-18 Dr. Shanza Abbas
+Th
+MT4032-Stochasti
+CL2006-Operating Systems - Lab
+c Processes
+R-18 Dr. Muhammad Adnan Lab # 6 Ms. Farwa Ahmad
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS3001-Computer
+CL3001-Computer Networks - Lab
+Networks
+Lab # 6 Ms. Farwa Ahmad R-20 Ms. Sahar Ajmal
+CS2006-Operating Systems
+Tu
+R-01 Ms. Sahar Ajmal MT4032-Stochastic
+SE4008-Programming for Mobile Devices
+Processes
+CS2009-Design and Analysis
+of Algorithms
+Lab # 4 Mr. Tahir Farooq R-18 Dr. Shanza Abbas R-01 Dr. Muhammad Adnan
+CS2006-Operating Systems
+We
+MT4032-Stochastic CS3001-Computer SE3003-Web R-17 Ms. Sahar Ajmal
+Processes Networks Engineering
+CS2009-Design and Analysis
+of Algorithms
+R-01 Dr. Muhammad Adnan R-18 Ms. Sahar Ajmal FSM#3 Mr. Jawad Khalid R-18 Dr. Shanza Abbas
+Th
+SE3003-Web
+SL3003-Web Engineering - Lab CL2006-Operating Systems - Lab
+Engineering
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer Lab # 6 Ms. Farwa Ahmad
+Fr
+SE3002 - Software Quality Engineering
+R-01 Mr. Jawad Khalid
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE2002-Software
+MG1002-Marketing
+Design and SL2002-Software Design and Architecture - Lab
+Management
+Architecture
+R-01 Dr. Sajid Anwar FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Maham Saleem
+Tu
+CS2005-Database SE2003 - Formal MT2005-Probability
+Systems Methods and Statistics
+R-18 Dr. Shanza Abbas R-20 Dr. Qamar Uz Zaman R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing SE2003 - Formal
+CL2005-Database Systems - Lab
+Structures Management Methods
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza R-20 Dr. Qamar Uz Zaman LAB-3 Ms. Samia Aziz
+Th SE2002-Software
+CS2005-Database MT2005-Probability CS2001-Data
+Design and
+Systems and Statistics Structures
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar FSM#3 Dr. Sana Shahid R-18 Ms. Nabeela Ashraf
+Fr
+CL2001-Data Structures - Lab
+LAB-3 Ms. Nabeela Ashraf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SS1008
+Mo SE2002-Software Communicati
+SL2002-Software Design and Architecture - Lab Design and on and
+Architecture Presentation
+Skills
+LAB-3 Tehreem Aslam R-01 Dr. Sajid Anwar FMSsM. #M3unazza Akhtar
+Tu SE2002-Software
+CS2005-Database SE2003 - Formal MG1002-Marketing MT2005-Probability
+Design and
+Systems Methods Management and Statistics
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar R-20 Dr. Qamar Uz Zaman FSM#3 Mr. Hafiz M. Zeeshan Raza R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing
+CL2005-Database Systems - Lab
+Structures Management
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Samia Aziz
+SS1008
+Communicati
+Th
+CS2005-Database MT2005-Probability SE2003 - Formal CS2001-Data
+on and
+Systems and Statistics Methods Structures
+Presentation
+Skills
+R-18 Dr. Shanza Abbas FSM#3 Dr. Sana Shahid R-20 Dr. Qamar Uz Zaman R-18 Ms. Nabeela Ashraf FMSsM. #M3unazza Akhtar
+Fr SL1008 Communicatio SL1008 Communicatio
+CL2001-Data Structures - Lab n and Presentation n and Presentation
+Skills - Lab Skills - Lab
+LAB-3 Ms. Nabeela Ashraf CAL-LAB Mr. Khalid Mehmood Anjum CAL-LAB Mr. Khalid Mehmood Anjum
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+EE1009-Digital Logic SE1001-Introduction to CS1005-Discrete
+Design Software Engineering Structures
+R-17 Mr. Adeel Tahir R-17 Mr. Umer Iqbal R-17 Dr. Muhammad Ahmad
+Tu
+CS1004-Object CS1005-Discrete
+EL1009-Digital Logic Design - Lab
+Oriented Programming Structures
+R-01 Dr. Sajid Anwar R-17 Dr. Muhammad Ahmad DLD Lab Ms. Amna Shahbaz
+We
+SE1001-Introduction to EE1009-Digital Logic MT1008-Multivariable CS1002-Programming
+Software Engineering Design Calculus Fundamentals
+R-17 Mr. Umer Iqbal R-17 Mr. Adeel Tahir R-18 Mr. Muhammad Munawar R-01 Ms. Nabeela Ashraf
+CL1004-Object Oriented Programming -
+Lab
+Th
+CS1004-Object MT1008-Multivariable LAB-3 Ms. Samia Aziz
+Oriented Programming Calculus
+CS1002-Programming
+Fundamentals
+R-17 Dr. Sajid Anwar R-17 Mr. Muhammad Munawar R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS1004-Object CS1005-Discrete EE1009-Digital Logic
+Oriented Programming Structures Design
+R-18 Mr. Jawad Khalid R-17 Dr. Muhammad Ahmad R-01 Mr. Adeel Tahir
+Tu CS1004-Object CS1005-Discrete CL1004-Object Oriented Programming-Lab
+Oriented Programming Structures B1
+R-17 Mr. Jawad Khalid R-01 Dr. Muhammad Ahmad LAB-3 Ms. Samia Aziz
+We
+EE1009-Digital Logic MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+Design Calculus Software Engineering Fundamentals
+R-01 Mr. Adeel Tahir R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-01 Ms. Nabeela Ashraf
+Th
+MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+EL1009-Digital Logic Design - Lab
+Calculus Software Engineering Fundamentals
+DLD Lab Ms. Amna Shahbaz R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc Timetables
+Department of Software Engineering.
+BSE-8A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SE4001
+MG4011 -
+Tu
+CS4036-Soft Software
+Entrepreneur
+ware Testing Re-Engineeri
+ship
+ng
+R-18 Dr. Affan Rauf R-17 Dr. Saif Maqbool R-20 Mr. Awais Azam
+SE4001
+MG4011 - CS3002-Infor
+We Software
+Entrepreneur mation
+Re-Engineeri
+ship Security
+ng
+FSM#3Dr. Saif Maqbool RD-2r0. Qamar Uz Zaman R-20 Mr. Awais Azam
+CS3002-Infor
+Th
+CS4036-Soft
+mation
+ware Testing
+Security
+RD-2r0. Qamar Uz Zaman R-17 Dr. Affan Rauf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-8B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+MG4011 - CS3002-Informati
+Entrepreneurship on Security
+FSM#3 Ms. Amna Babar R-20 Ms Sumaira Mustafar
+Tu
+SE4001 Software CS4036-Software CS3002-Informati
+Re-Engineering Testing on Security
+FSM#3 Mr. Awais Azam R-18 Dr. Affan Rauf R-18 Ms Sumaira Mustafar
+We
+MG4011 -
+Entrepreneurship
+R-20 Ms. Amna Babar
+Th
+CS4036-Software SE4001 Software
+Testing Re-Engineering
+R-18 Dr. Affan Rauf R-20 Mr. Awais Azam
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE4008-Programming for Mobile
+CS3001-Computer SE3003-Web
+Devices Networks Engineering
+Lab # 4 Mr. Tahir Farooq R-18 Ms. Sahar Ajmal R-17 Mr. Jawad Khalid
+CS2006-Operating
+Systems
+Tu
+CS3001-Computer R-01 Ms. Sahar Ajmal
+CL3001-Computer Networks - Lab
+Networks
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Ms. Farwa Ahmad FSM#3 Ms. Sahar Ajmal R-18 Dr. Shanza Abbas
+CS2006-Operating
+Systems
+We
+SE3003-Web MT4032-Stochasti R-17 Ms. Sahar Ajmal
+SL3003-Web Engineering - Lab
+Engineering c Processes
+CS2009-Design and
+Analysis of Algorithms
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer R-20 Dr. Muhammad Adnan R-18 Dr. Shanza Abbas
+Th
+MT4032-Stochasti
+CL2006-Operating Systems - Lab
+c Processes
+R-18 Dr. Muhammad Adnan Lab # 6 Ms. Farwa Ahmad
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-6B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS3001-Computer
+CL3001-Computer Networks - Lab
+Networks
+Lab # 6 Ms. Farwa Ahmad R-20 Ms. Sahar Ajmal
+CS2006-Operating Systems
+Tu
+R-01 Ms. Sahar Ajmal MT4032-Stochastic
+SE4008-Programming for Mobile Devices
+Processes
+CS2009-Design and Analysis
+of Algorithms
+Lab # 4 Mr. Tahir Farooq R-18 Dr. Shanza Abbas R-01 Dr. Muhammad Adnan
+CS2006-Operating Systems
+We
+MT4032-Stochastic CS3001-Computer SE3003-Web R-17 Ms. Sahar Ajmal
+Processes Networks Engineering
+CS2009-Design and Analysis
+of Algorithms
+R-01 Dr. Muhammad Adnan R-18 Ms. Sahar Ajmal FSM#3 Mr. Jawad Khalid R-18 Dr. Shanza Abbas
+Th
+SE3003-Web
+SL3003-Web Engineering - Lab CL2006-Operating Systems - Lab
+Engineering
+LAB-3 Mr. Jawad Khalid LAB-3 Mr. Saqib Ameer Lab # 6 Ms. Farwa Ahmad
+Fr
+SE3002 - Software Quality Engineering
+R-01 Mr. Jawad Khalid
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo SE2002-Software
+MG1002-Marketing
+Design and SL2002-Software Design and Architecture - Lab
+Management
+Architecture
+R-01 Dr. Sajid Anwar FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Maham Saleem
+Tu
+CS2005-Database SE2003 - Formal MT2005-Probability
+Systems Methods and Statistics
+R-18 Dr. Shanza Abbas R-20 Dr. Qamar Uz Zaman R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing SE2003 - Formal
+CL2005-Database Systems - Lab
+Structures Management Methods
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza R-20 Dr. Qamar Uz Zaman LAB-3 Ms. Samia Aziz
+Th SE2002-Software
+CS2005-Database MT2005-Probability CS2001-Data
+Design and
+Systems and Statistics Structures
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar FSM#3 Dr. Sana Shahid R-18 Ms. Nabeela Ashraf
+Fr
+CL2001-Data Structures - Lab
+LAB-3 Ms. Nabeela Ashraf
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-4B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+SS1008
+Mo SE2002-Software Communicati
+SL2002-Software Design and Architecture - Lab Design and on and
+Architecture Presentation
+Skills
+LAB-3 Tehreem Aslam R-01 Dr. Sajid Anwar FMSsM. #M3unazza Akhtar
+Tu SE2002-Software
+CS2005-Database SE2003 - Formal MG1002-Marketing MT2005-Probability
+Design and
+Systems Methods Management and Statistics
+Architecture
+R-18 Dr. Shanza Abbas R-01 Dr. Sajid Anwar R-20 Dr. Qamar Uz Zaman FSM#3 Mr. Hafiz M. Zeeshan Raza R-17 Dr. Sana Shahid
+We
+CS2001-Data MG1002-Marketing
+CL2005-Database Systems - Lab
+Structures Management
+R-18 Ms. Nabeela Ashraf FSM#3 Mr. Hafiz M. Zeeshan Raza LAB-3 Ms. Samia Aziz
+SS1008
+Communicati
+Th
+CS2005-Database MT2005-Probability SE2003 - Formal CS2001-Data
+on and
+Systems and Statistics Methods Structures
+Presentation
+Skills
+R-18 Dr. Shanza Abbas FSM#3 Dr. Sana Shahid R-20 Dr. Qamar Uz Zaman R-18 Ms. Nabeela Ashraf FMSsM. #M3unazza Akhtar
+Fr SL1008 Communicatio SL1008 Communicatio
+CL2001-Data Structures - Lab n and Presentation n and Presentation
+Skills - Lab Skills - Lab
+LAB-3 Ms. Nabeela Ashraf CAL-LAB Mr. Khalid Mehmood Anjum CAL-LAB Mr. Khalid Mehmood Anjum
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2A
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+EE1009-Digital Logic SE1001-Introduction to CS1005-Discrete
+Design Software Engineering Structures
+R-17 Mr. Adeel Tahir R-17 Mr. Umer Iqbal R-17 Dr. Muhammad Ahmad
+Tu
+CS1004-Object CS1005-Discrete
+EL1009-Digital Logic Design - Lab
+Oriented Programming Structures
+R-01 Dr. Sajid Anwar R-17 Dr. Muhammad Ahmad DLD Lab Ms. Amna Shahbaz
+We
+SE1001-Introduction to EE1009-Digital Logic MT1008-Multivariable CS1002-Programming
+Software Engineering Design Calculus Fundamentals
+R-17 Mr. Umer Iqbal R-17 Mr. Adeel Tahir R-18 Mr. Muhammad Munawar R-01 Ms. Nabeela Ashraf
+CL1004-Object Oriented Programming -
+Lab
+Th
+CS1004-Object MT1008-Multivariable LAB-3 Ms. Samia Aziz
+Oriented Programming Calculus
+CS1002-Programming
+Fundamentals
+R-17 Dr. Sajid Anwar R-17 Mr. Muhammad Munawar R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc TimetablesDepartment of Software Engineering.
+BSE-2B
+FAST-NU
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+8:45 - 9:15 9:15 - 9:45 9:45 - 10:10 10:15 - 10:45 10:45 - 11:15 11:15 - 11:40 11:45 - 12:15 12:15 - 12:45 12:45 - 1:10 1:10 - 1:45 1:45 - 2:15 2:15 - 2:45 2:45 - 3:10 3:10 - 3:40 3:40 - 4:10 4:10 - 4:40
+Mo
+CS1004-Object CS1005-Discrete EE1009-Digital Logic
+Oriented Programming Structures Design
+R-18 Mr. Jawad Khalid R-17 Dr. Muhammad Ahmad R-01 Mr. Adeel Tahir
+Tu CS1004-Object CS1005-Discrete CL1004-Object Oriented Programming-Lab
+Oriented Programming Structures B1
+R-17 Mr. Jawad Khalid R-01 Dr. Muhammad Ahmad LAB-3 Ms. Samia Aziz
+We
+EE1009-Digital Logic MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+Design Calculus Software Engineering Fundamentals
+R-01 Mr. Adeel Tahir R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-01 Ms. Nabeela Ashraf
+Th
+MT1008-Multivariable SE1001-Introduction to CS1002-Programming
+EL1009-Digital Logic Design - Lab
+Calculus Software Engineering Fundamentals
+DLD Lab Ms. Amna Shahbaz R-01 Mr. Muhammad Munawar R-01 Mr. Umer Iqbal R-20 Ms. Nabeela Ashraf
+Fr
+CL1002-Programming Fundamentals - Lab
+LAB-3 Mr. Saqib Ameer
+Spring-2024 Time Table w.e.f Feb 06, 2024 (V-1.2) aSc Timetables

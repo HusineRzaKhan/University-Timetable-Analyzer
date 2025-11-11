@@ -1,0 +1,125 @@
+details are these:
+whole day is from 845am to 440pm. Teacher has a free slots except below written full slots of all teachers. 
+Generate Jason file that represents free slots of teachers in the pattern as i told you previously. 
+
+Dr. Affan Rauf
+full slots;
+Tuesday: 1015am to 110pm
+thur: 1015am to 110pm
+
+Dr. Saif Maqbool
+Tuesday: 1145am to 110pm
+Wed: 845am to 1010am
+
+Mr. Awais Azam
+tue: 1015am to 1140am, 145pm to 310pm
+wed: 310pm to 440pm
+thur: 145pm to 310pm
+
+ Dr. Qamar Uz Zaman
+wed: 1015 to 1140am, 1145am to 110pm
+thur: 1015 to 1140am, 1145am to 110pm
+tues: 1015 to 1140am, 1145am to 110pm
+
+Ms. Amna Babar
+Mond: 145pm to 310pm
+wed: 845am to 1010am
+
+Ms Sumaira Mustafa
+Mond: 310pm to 440pm
+Tues: 310pm to 440pm
+
+Mr. Tahir Farooq
+Mond: 845am to 1245pm
+Tues: 845am to 1245pm
+
+Ms. Sahar Ajmal
+Mond: 145pm to 310pm, 1145 to 110
+tue: 145pm to 310pm, 1145 to 110, 145 to 310
+wed: 310 to 440, 1145 to 110, 310 to 440
+
+Mr. Jawad Khalid
+Mond: 310 to 440, 1015 to 1140
+tues: 845 to 1010
+Wed: 845 to 1010, 145 to 310
+thur: 845 to 1010
+frid: 845 to 1140
+
+Ms. Farwa Ahmad
+tues: 845 to 1140
+thur: 145 to 440, 145 to 440
+mond: 845 to 1140
+
+Dr. Shanza Abbas
+tues: 145 to 310, 845 to 1010
+wed: 310 to 440
+thur: 845 to 1010
+
+Mr. Saqib Ameer
+Wed: 1015 to 110
+thur: 1015 to 110
+frid: 145 to 440
+
+Dr. Muhammad Adnan
+Wed: 145 to 310. 1015 to 1140
+thur: 1145 to 110
+tues: 310 to 440
+
+Dr. Sajid Anwar
+Mond: 1015 to 1140, 1145 to 110
+thur: 1015 to 1140, 845 to 1010
+tues: 1015 to 1140, 845 to 1010
+
+Mr. Hafiz M. Zeeshan Raza
+Mond: 1145 to 110
+wed: 1015 to 1140, 1145 to 110
+tues; 145 to 310
+
+Ms. Maham Saleem
+Mond: 145 to 440
+
+Dr. Sana Shahid
+Tues: 145 to 310, 310 to 440
+thur: 1145 to 110, 1015 to 1140
+
+Ms. Nabeela Ashraf
+Wed: 845 to 1010, 310 to 440
+thur: 145 to 310, 310 to 440
+fri: 845 to 1140
+
+Ms. Samia Aziz
+Wed: 145 to 440
+thur: 145 to 440
+Tues: 145 to 440
+
+Tehreem Aslam
+Mond: 845 to 1140
+
+Ms. Munazza Akhtar
+Mond: 310 to 410
+Thur: 310 to 410
+
+Mr. Khalid Mehmood Anjum
+Fri: 1145 to 110, 310 to 440
+
+Mr. Adeel Tahir
+Mond: 845 to 1010, 145 to 310
+wed: 1015 to 1140, 845 to 1010
+
+Mr. Umer Iqbal
+Mond: 1015 to 1140
+Wed: 845 to 1010, 145 to 310
+thur: 145 to 310 
+
+Dr. Muhammad Ahmad
+Mond: 145 to 310, 1145 to 110
+tues: 1015 to 1140, 1145 to 110
+
+Ms. Amna Shahbaz
+tues: 145 to 440
+thur: 845 to 1140
+
+Mr. Muhammad Munawar
+Wed: 145 to 310, 1145 to 110
+thur: 1015 to 1140, 1145 to 110
+

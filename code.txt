@@ -1,0 +1,136 @@
+import pdfplumber
+import re
+import json
+
+def extract_and_save_to_json(pdf_path, output_json_path):
+    with pdfplumber.open(pdf_path) as pdf:
+        text = ''
+        # Extract text from each page
+        for page in pdf.pages:
+            text += page.extract_text()
+
+    print("Extracted text:")
+    print(text)
+
+    teachers_free_slots, sections_free_slots = extract_free_slots(text)
+
+    print("\nTeachers Free Slots:")
+    print(json.dumps(teachers_free_slots, indent=2))
+
+    print("\nSections Free Slots:")
+    print(json.dumps(sections_free_slots, indent=2))
+
+    # Save data to JSON files
+    with open("teachers_free_slots.json", "w") as teacher_json_file:
+        json.dump(teachers_free_slots, teacher_json_file, indent=2)
+
+    with open("sections_free_slots.json", "w") as section_json_file:
+        json.dump(sections_free_slots, section_json_file, indent=2)
+
+def extract_free_slots(text):
+    # Define regular expressions to extract information
+    teacher_pattern = re.compile(r'Teacher: (\w+)')
+    section_pattern = re.compile(r'Section: (\w+)')
+    time_slot_pattern = re.compile(r'(\d{1,2}:\d{2} [APMapm]{2}) - (\d{1,2}:\d{2} [APMapm]{2})')
+
+    # Initialize data structures to store free slots
+    teachers_free_slots = {}
+    sections_free_slots = {}
+
+    # Extract information from the text
+    current_teacher = None
+    current_section = None
+    for line in text.split('\n'):
+        print(line)  # Print each line for debugging
+        teacher_match = teacher_pattern.match(line)
+        section_match = section_pattern.match(line)
+        time_slot_match = time_slot_pattern.findall(line)
+
+        if teacher_match:
+            current_teacher = teacher_match.group(1)
+            teachers_free_slots[current_teacher] = []
+        elif section_match:
+            current_section = section_match.group(1)
+            sections_free_slots[current_section] = []
+        elif time_slot_match:
+            start_time, end_time = time_slot_match[0]
+            if current_teacher:
+                teachers_free_slots[current_teacher].append({'start_time': start_time, 'end_time': end_time})
+            if current_section:
+                sections_free_slots[current_section].append({'start_time': start_time, 'end_time': end_time})
+
+    return teachers_free_slots, sections_free_slots
+
+if __name__ == "__main__":
+    pdf_path = "T.pdf"
+    output_json_path = "teachers_free_slots.json"
+
+    extract_and_save_to_json(pdf_path, output_json_path)
+import pdfplumber
+import re
+import json
+
+def extract_and_save_to_json(pdf_path, output_json_path):
+    with pdfplumber.open(pdf_path) as pdf:
+        text = ''
+        # Extract text from each page
+        for page in pdf.pages:
+            text += page.extract_text()
+
+    print("Extracted text:")
+    print(text)
+
+    teachers_free_slots, sections_free_slots = extract_free_slots(text)
+
+    print("\nTeachers Free Slots:")
+    print(json.dumps(teachers_free_slots, indent=2))
+
+    print("\nSections Free Slots:")
+    print(json.dumps(sections_free_slots, indent=2))
+
+    # Save data to JSON files
+    with open("teachers_free_slots.json", "w") as teacher_json_file:
+        json.dump(teachers_free_slots, teacher_json_file, indent=2)
+
+    with open("sections_free_slots.json", "w") as section_json_file:
+        json.dump(sections_free_slots, section_json_file, indent=2)
+
+def extract_free_slots(text):
+    # Define regular expressions to extract information
+    teacher_pattern = re.compile(r'Teacher: (\w+)')
+    section_pattern = re.compile(r'Section: (\w+)')
+    time_slot_pattern = re.compile(r'(\d{1,2}:\d{2} [APMapm]{2}) - (\d{1,2}:\d{2} [APMapm]{2})')
+
+    # Initialize data structures to store free slots
+    teachers_free_slots = {}
+    sections_free_slots = {}
+
+    # Extract information from the text
+    current_teacher = None
+    current_section = None
+    for line in text.split('\n'):
+        print(line)  # Print each line for debugging
+        teacher_match = teacher_pattern.match(line)
+        section_match = section_pattern.match(line)
+        time_slot_match = time_slot_pattern.findall(line)
+
+        if teacher_match:
+            current_teacher = teacher_match.group(1)
+            teachers_free_slots[current_teacher] = []
+        elif section_match:
+            current_section = section_match.group(1)
+            sections_free_slots[current_section] = []
+        elif time_slot_match:
+            start_time, end_time = time_slot_match[0]
+            if current_teacher:
+                teachers_free_slots[current_teacher].append({'start_time': start_time, 'end_time': end_time})
+            if current_section:
+                sections_free_slots[current_section].append({'start_time': start_time, 'end_time': end_time})
+
+    return teachers_free_slots, sections_free_slots
+
+if __name__ == "__main__":
+    pdf_path = "D:\T.pdf"
+    output_json_path = "teachers_free_slots.json"
+
+    extract_and_save_to_json(pdf_path, output_json_path)
